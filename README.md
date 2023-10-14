@@ -1,4 +1,4 @@
 # First
 This is my first git repository.
 <br>
-Author - Manan S Patel.
+Author -  wriiten by Manan S Patel.
