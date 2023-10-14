@@ -1,3 +1,4 @@
 # First
-This is my first git repository
-Author - Manan S Patel
+This is my first git repository.
+<br>
+Author - Manan S Patel.
